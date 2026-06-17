@@ -1,0 +1,12 @@
+.bg-dark a {
+  text-decoration: none;
+  font-size: 14px;
+}
+.hero-content {
+  position: absolute;
+  top: 50%;
+  left: 40px;
+  transform: translateY(-50%);
+  color: white;
+}
+
