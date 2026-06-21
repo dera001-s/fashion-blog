@@ -9,4 +9,48 @@
   transform: translateY(-50%);
   color: white;
 }
-
+body{
+  font-family: 'Open Sans', sans-serif;
+  background-color: #f1f1f1;
+}
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Oswald', sans-serif;
+}
+header{
+  background-color: #fff;
+  padding: 80px 0;
+}
+header h1{
+  font-family: 'Oswald', sans-serif;
+  font-weight: 400;
+  letter-spacing: 3px;
+}
+.card{
+  border: none;
+  border-radius: 0;
+}
+.card h3{
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 400;
+  font-family: 'Oswald',sans-serif;
+}
+.list-group-item{
+  padding: 15px;
+}
+.list-group-item img{
+  width: 60px;
+}
+.sidebar-widget{
+  background: white;
+  margin-bottom: 30px;
+}
+.sidebar-title{
+  background: black;
+  color: white;
+  padding: 12px 15px;
+  font-family: 'Oswald' sans-serif;
+}
+.card.mb-4{
+  margin-bottom: 30px !important;
+}
